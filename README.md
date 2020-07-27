@@ -1,4 +1,4 @@
-# NetworkS Server
+# NetworkX Server
 Proof of concept for providing networkx functionality as REST API.  
 
 NetworkX implements a lot of graph algorithms, some of which are very difficult to implement. 
