@@ -1,6 +1,8 @@
 # NetworkX Server
 Proof of concept for providing networkx functionality as REST API.  
 
+This is **not safe** nor intended for production use. Reflection is used to import and execute the right function and could very easily be misused.
+
 NetworkX implements a lot of graph algorithms, some of which are very difficult to implement. 
 By setting up this NetworkX server, we can use those algorithms easily when not working in Python.  
 
